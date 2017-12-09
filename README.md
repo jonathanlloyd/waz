@@ -1,1 +1,1 @@
-# Nok - SQL database migration tool
+# Waz - SQL database migration tool
